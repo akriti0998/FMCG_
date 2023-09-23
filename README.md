@@ -1,1 +1,9 @@
-# FMCG_
+#FMCG Produscts Analysis
+#Insights to generate
+1. Monthwise number of quantities sold
+2. Category wise Qty sold
+3. Sub-channel wise total sales
+4. Highest sale in which month
+5. Highest selling product (based on sales) (packaging quantity doesn't matter. Ex. consider "GET SLI JUICE 1 L" and "GET SLIM JUICE 500 ML" as one product)
+6. List of different products company is offering (packaging quantity doesn't matter. Ex. consider "GETSLIM JUICE 1 L" and "GET SLIM JUICE 500 ML" as one product)
+7. Create a single excel file to save all the outputs generated above in different subsheets.
